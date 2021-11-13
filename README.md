@@ -18,3 +18,4 @@ Lazy Geeks Script For Sudo
 
 5) bash sudo.sh
 
+6) Visit GitHub for more updates.
