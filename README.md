@@ -18,3 +18,7 @@ Lazy Geeks Script For Sudo
 
 5) bash sudo.sh
 
+Note : This will not work unless you have
+Superuser access . I have got the pipeline for a sudo script
+That works without root.
+Kilo-411
